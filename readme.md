@@ -181,15 +181,3 @@ Developed an interactive Power BI dashboard using SQL and DAX to analyze credit 
 * Automated ETL pipeline using Python
 * Deployment to Power BI Service for live reporting
 
----
-
-## 🤝 Author
-
-**Shahamal M**
-Data Analyst | Data Science Enthusiast
-
----
-
-## ⭐ If you found this project useful
-
-Give it a star on GitHub and feel free to fork and enhance
